@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-label="C#, .NET 8, Windows, Batch, Git">
+  <rect x="1" y="1" width="958" height="98" rx="12" fill="#101015" stroke="#302b3b"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#e8e3ee" font-size="23" font-weight="600"><text x="38" y="46">C#</text><text x="224" y="46">.NET 8</text><text x="410" y="46">Windows</text><text x="596" y="46">Batch</text><text x="782" y="46">Git</text></g>
+    <g fill="#a99ab9" font-size="10" letter-spacing="1.5"><text x="38" y="71">LANGUAGE</text><text x="224" y="71">RUNTIME</text><text x="410" y="71">PLATFORM</text><text x="596" y="71">SCRIPTING</text><text x="782" y="71">VERSION CONTROL</text></g>
+  </g>
+  <path d="M194 25V75M380 25V75M566 25V75M752 25V75" stroke="#302b3b"/>
+</svg>

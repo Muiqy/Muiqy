@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="52" viewBox="0 0 960 52" role="img" aria-label="Decorative silver star divider">
+  <defs><linearGradient id="fade"><stop stop-color="#9d91b0" stop-opacity="0"/><stop offset=".5" stop-color="#9d91b0" stop-opacity=".6"/><stop offset="1" stop-color="#9d91b0" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 26H454M506 26H960" stroke="url(#fade)"/>
+  <path d="M480 16L482.5 23.5L490 26L482.5 28.5L480 36L477.5 28.5L470 26L477.5 23.5Z" fill="#bcb0cf"/>
+  <circle cx="458" cy="26" r="1.4" fill="#8c809c"/><circle cx="502" cy="26" r="1.4" fill="#8c809c"/>
+</svg>
